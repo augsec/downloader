@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Download Automatizado
 
 Este projeto contém um script batch para Windows que automatiza o download de arquivos essenciais para a configuração inicial de um ambiente de desenvolvimento, focando em agilizar a configuração de uma VPS WINDOWS para hospedar scripts .php. Atualmente, suporta o download automatizado do WinRAR e do Ampps.
@@ -30,3 +31,6 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 ⌨️ with ❤️ by [Augsec](https://github.com/augsec)
+=======
+.
+>>>>>>> dbc24364e1bc57555023c2e6fe279332b8ef2782
