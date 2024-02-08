@@ -28,7 +28,6 @@ curl -L "%URL_DO_EXE2%" -o "Ampps-3.9-x86_64-setup.zip"
 echo Download concluido.
 echo .
 
-
 color a
 
 echo .
