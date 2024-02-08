@@ -28,6 +28,5 @@ Contribuições para o projeto são bem-vindas! Se você tem uma sugestão para 
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-
 ---
 ⌨️ with ❤️ by [Augsec](https://github.com/augsec)
